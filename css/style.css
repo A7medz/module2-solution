@@ -64,17 +64,21 @@ P{
     .col-md-6, .col-md-12 {
       float: left;
       background-color: white;
-      padding-bottom: 10PX;
+      padding-bottom: 15PX;
 
     }
     .col-md-6 {
       width: 50%;
-      padding-bottom: 10PX;
+      padding-bottom: 15PX;
 
+    }
+    .su{
+        position: absolute;
+        width: 87.7%;
     }
     .col-md-12 {
       width: 100%;
-      padding-bottom: 10PX;
+      padding-bottom: 15PX;
 
     }
   }
